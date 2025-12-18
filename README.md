@@ -18,9 +18,9 @@ A web-based portal designed to streamline college activities and enhance interac
 ## 🛠️ Tech Stack
 
 - **Frontend:** HTML, CSS, JavaScript
-- **Backend:** Java (JDBC / Servlets / Spring Boot – if applicable)
+- **Backend:** PHP
 - **Database:** MySQL
-- **Server:** Apache Tomcat / XAMPP
+- **Server:** XAMPP
 - **Version Control:** Git & GitHub
 
 ---
